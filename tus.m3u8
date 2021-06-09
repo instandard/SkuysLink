@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:285446
+#EXTINF:10.0,
+https://streaming.useetv.com/dass/130/imc_dash/media_w7715899232_b1004100_sleng_285447.ts
+#EXTINF:10.0,
+https://streaming.useetv.com/dass/130/imc_dash/media_w7715899232_b1004100_sleng_285448.ts
+#EXTINF:10.0,
+https://streaming.useetv.com/dass/130/imc_dash/media_w7715899232_b1004100_sleng_285449.ts
