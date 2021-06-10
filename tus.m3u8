@@ -3,8 +3,4 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:285446
 #EXTINF:10.0,
-https://streaming.useetv.com/dass/130/imc_dash/media_w7715899232_b1004100_sleng_285447.ts
-#EXTINF:10.0,
-https://streaming.useetv.com/dass/130/imc_dash/media_w7715899232_b1004100_sleng_285448.ts
-#EXTINF:10.0,
-https://streaming.useetv.com/dass/130/imc_dash/media_w7715899232_b1004100_sleng_285449.ts
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC
